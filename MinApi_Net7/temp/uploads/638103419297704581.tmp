@@ -1,0 +1,4 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "server=localhost;user=root;pwd=Vanessa*0881;port=3306;database=ClienteApi;sslmode=none;AllowPublicKeyRetrieval=true"
+  },

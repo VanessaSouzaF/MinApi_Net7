@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MinApi_Net7.props" />
+</Project>
